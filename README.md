@@ -1,12 +1,13 @@
-### Tom "Nugget"
+## Tom "Nugget" 👨‍🎓
 
 Hey, I'm a final year METR and Comp Sci student at UQ, or a glorified Software Engineering student who knows some stuff about kinematics and PCBs.
 
-Most of my repositories are private since they're academic, including my Honours Thesis (boo) where I wrote an application to track and display the movement of a human leg and designed the circuit boards. 
+Most of my repositories are private since they're academic, including my Honours Thesis (boo) where I wrote an application to track and display the movement of a human leg 🦿 and designed the circuit boards. 🖥  
 
-A lot of my downtime is spent on the drums, or whatever instrument I'm interested in at the time.
+A lot of my downtime is spent on the drums 🥁, or whatever instrument I'm interested in at the time 🎸.
 
 Anyway here are some stats to jazz up this page:
+
 ![Tom's Github stats](https://github-readme-stats.vercel.app/api?username=thomasnugent&show_icons=true&theme=gradient)
 
 <!--
